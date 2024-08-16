@@ -29,7 +29,3 @@ Welcome to the "Peg Solitaire Game," a classic single-player puzzle game impleme
     ```bash
     python peg_solitaire.py
     ```
-
-
-## Collaboration
-This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the game.
