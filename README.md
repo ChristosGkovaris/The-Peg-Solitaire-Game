@@ -23,4 +23,4 @@ Welcome to the "Peg Solitaire Game," a classic single-player puzzle game impleme
       git clone https://github.com/ChristosGkovaris/The-Peg-Solitaire-Game.git
       cd The-Peg-Solitaire-Game
 - Ensure you have Python installed: The game requires Python 3. Ensure you have it installed on your system.
-- Run the Game: python Peg_Solitaire.py
+- Run the Game: **python Peg_Solitaire.py**
