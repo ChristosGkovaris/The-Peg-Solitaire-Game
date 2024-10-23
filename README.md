@@ -21,7 +21,7 @@ Continue playing until no more valid moves are possible.
 ## How to Run
 - Clone the Repository:
   ``` bash
-  git clone https://github.com/yourusername/peg-solitaire.git
-  cd peg-solitaire
+      git clone https://github.com/ChristosGkovaris/The-Peg-Solitaire-Game.git
+      cd The-Peg-Solitaire-Game
 - Ensure you have Python installed: The game requires Python 3. Ensure you have it installed on your system.
 - Run the Game: python Peg_Solitaire.py
