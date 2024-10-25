@@ -1,4 +1,4 @@
-# Peg Solitaire Game.
+# The Peg Solitaire Game.
 # Created in December 2021.
 # Author Christos-Grigorios Gkovaris
 
