@@ -1,7 +1,3 @@
-# The Peg Solitaire Game.
-# Created in December 2021.
-# Author Christos-Grigorios Gkovaris
-
 # Introductory message.
 print('Welcome to the Peg Solitaire Game!')
 
