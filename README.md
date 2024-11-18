@@ -1,4 +1,4 @@
-# Peg Solitaire Game
+# The Peg Solitaire Game
 
 Welcome to the "Peg Solitaire Game", a classic single-player puzzle game implemented in Python. The goal is to remove pegs from the board by jumping over them, leaving only one peg remaining.
 
